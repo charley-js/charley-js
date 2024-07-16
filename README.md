@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=charley-js.visitor-badge&left_color=green&right_color=red)
+
+![Visitor Count](https://profile-counter.glitch.me/charley-js/count.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=charley-js)](https://git.io/streak-stats)
+
+
+
 <!--
 **charley-js/charley-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
