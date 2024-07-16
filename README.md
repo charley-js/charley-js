@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=charley-js.visitor-badge&left_color=green&right_color=red)
-
-![Visitor Count](https://profile-counter.glitch.me/charley-js/count.svg)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=charley-js)](https://git.io/streak-stats)
+
+![Metrics](https://metrics.lecoq.io/charley-js?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon)
 
 
 
